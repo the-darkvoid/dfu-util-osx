@@ -1,0 +1,7 @@
+Build
+DerivedData
+Distribute
+dfu-util.xcodeproj/project.xcworkspace/xcuserdata
+dfu-util.xcodeproj/xcuserdata
+*.xccheckout
+.DS_Store
